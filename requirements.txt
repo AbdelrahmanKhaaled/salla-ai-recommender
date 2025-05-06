@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+lightfm
+pandas
+scikit-learn
+aiofiles
+python-multipart
+tinydb
